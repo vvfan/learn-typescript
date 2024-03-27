@@ -2,7 +2,7 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  base: '/repo/',
+  base: '/learn-typescript/',
   lang: 'zh-CN',
   title: "vvfan blog",
   description: "vvfan blog desc",
